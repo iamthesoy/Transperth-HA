@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add Transperth stop",
+        "description": "Create a sensor for one Transperth stop ID.",
+        "data": {
+          "name": "Name",
+          "stop_id": "Stop ID",
+          "scan_interval": "Refresh interval (seconds)"
+        }
+      }
+    },
+    "error": {
+      "invalid_stop_id": "Stop ID must be numeric"
+    },
+    "abort": {
+      "already_configured": "This stop is already configured"
+    }
+  }
+}
