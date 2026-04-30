@@ -2,6 +2,8 @@
 
 Home Assistant custom integration for Transperth stop departures, with a bundled Lovelace custom card editor (UI setup, no manual YAML required).
 
+This is vibe coded AI slop, i don't know how it works, it just does. If it doesnt work for you, raise an issue and i will beg the AI gods for forgiveness.
+
 ## Features
 
 - Config flow setup (choose stop ID once)
