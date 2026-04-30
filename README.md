@@ -21,15 +21,14 @@ This is vibe coded AI slop, i don't know how it works, it just does. If it doesn
 
 ## HACS Installation
 
-1. Push this repository to GitHub.
-2. In Home Assistant, go to HACS -> Integrations -> 3-dot menu -> Custom repositories.
-3. Add your repository URL, category: `Integration`.
-4. Install **Transperth Mobi** from HACS.
-5. Restart Home Assistant.
-6. Add integration:
+1. In Home Assistant, go to HACS -> Integrations -> 3-dot menu -> Custom repositories.
+2. Add this repository URL, category: `Integration`.
+3. Install **Transperth Mobi** from HACS.
+4. Restart Home Assistant.
+5. Add integration:
    - Settings -> Devices & Services -> Add Integration -> `Transperth Mobi`
    - Enter stop ID (e.g. `12345`)
-7. Add card:
+6. Add card:
    - Edit dashboard -> Add Card -> search `Transperth Mobi Entity Card`
    - Select your sensor entity (e.g. `sensor.bus`)
 
