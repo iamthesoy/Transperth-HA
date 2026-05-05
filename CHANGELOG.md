@@ -1,11 +1,16 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## [v1.1.0] - 05/05/2026
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+Adds local brand icon support, device grouping, and fifteen “next route” helper sensors (route number, ETA, destination for departures 1–5).
 
-## [1.0.0] - 2026-04-30
+### Highlights
+
+- `brand/icon.png` for Home Assistant integration branding
+- One device per stop with linked entities
+- Sensors: **Next route 1–5 number / ETA / destination**
+
+## [1.0.0] - 30/04/2026
 
 ### Added
 - Initial Home Assistant custom integration: `transperth_mobi`.
