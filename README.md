@@ -18,7 +18,7 @@ This is vibe coded AI slop, i don't know how it works, it just does. If it doesn
 - Bundled custom card:
   - `custom:transperth-mobi-entity-card`
   - Visual editor for entity, title, max results
-
+- Next route sensors (see v1.1.0 release notes)
 ## HACS Installation
 
 1. In Home Assistant, go to HACS -> Integrations -> 3-dot menu -> Custom repositories.
