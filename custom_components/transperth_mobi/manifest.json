@@ -1,0 +1,10 @@
+{
+  "domain": "transperth_mobi",
+  "name": "Transperth Mobi",
+  "version": "1.1.0",
+  "documentation": "https://136213.mobi/",
+  "requirements": [],
+  "codeowners": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
